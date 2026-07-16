@@ -6,7 +6,7 @@ Welcome to the hands-on workspace exercies for **Parts 2 & 3** of the *AI for Co
 
 **Link to workshop:** https://ubc-library-rc.github.io/ai_for_coding/
 
-In these exersise, you will learn how to use **GitHub Copilot**, using a codespace and the Palmer Penguins dataset. 
+In these exersise, you will learn how to use **GitHub Copilot**, using a codespace and the Palmer Penguins dataset. You will work in **R** with the **tidyverse (ggplot2)** in a simple `analysis.R` script.
 
 ## Launch your Codespace
 
