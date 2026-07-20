@@ -10,7 +10,7 @@ In these exersise, you will learn how to use **GitHub Copilot**, using a codespa
 
 ## Launch your Codespace
 
-Follow along the slides below
+Follow along here
 
 **Setup walkthrough:** [How to Launch a GitHub Codespace for Coding Exercise](https://scribehow.com/shared/How_to_Launch_a_GitHub_Codespace_for_Coding_Exercises__ndrCCbUcQnCtdToUSEweZQ)
 
